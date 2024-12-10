@@ -31,16 +31,16 @@ This repository contains tools and scripts for analyzing toxicity progression in
 
 toxicity-progression-analysis/
 ├── data/                   # Input datasets
-├── ouput/                  # Processed logs and visualizations
+├── results/                # Processed data and outputs
 ├── src/                    # Source code for analysis and utilities
 │   ├── preprocess.py       # Preprocessing scripts
 │   ├── analyze_toxicity.py # Main toxicity analysis script
 │   ├── visualize_trends.py # Visualization utilities
 │   └── models/             # Machine learning models
-├── tests/                  # Model Performance
-├── notebooks               # Codebase on Jupyter
+├── tests/                  # Unit tests
 ├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
+├── README.md               # Project documentation
+└── LICENSE                 # License file
 
 ## Acknowledgements
 
