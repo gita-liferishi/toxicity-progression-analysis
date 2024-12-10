@@ -6,8 +6,6 @@ This repository contains tools and scripts for analyzing toxicity progression in
 
 - [Features](#features)
 - [Requirements](#requirements)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
 
 ---
@@ -27,20 +25,6 @@ This repository contains tools and scripts for analyzing toxicity progression in
 - Python 3.8 or later
 - Required libraries (listed in `requirements.txt`)
 
-## Project Structure
-
-toxicity-progression-analysis/
-├── data/                   # Input datasets
-├── results/                # Processed data and outputs
-├── src/                    # Source code for analysis and utilities
-│   ├── preprocess.py       # Preprocessing scripts
-│   ├── analyze_toxicity.py # Main toxicity analysis script
-│   ├── visualize_trends.py # Visualization utilities
-│   └── models/             # Machine learning models
-├── tests/                  # Unit tests
-├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
-└── LICENSE                 # License file
 
 ## Acknowledgements
 
