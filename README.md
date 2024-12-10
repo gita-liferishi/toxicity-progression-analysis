@@ -1,4 +1,4 @@
-# Toxicity Progression Analysis
+# Understanding Toxicity Dynamics and Personal Attack in Online Dialogue
 
 This repository contains tools and scripts for analyzing toxicity progression in online conversations. It leverages natural language processing (NLP) techniques and machine learning models to detect and study the evolution of toxic behavior in textual data. The motivation towards this project stems from meeting the requirements of the graduate-level course STATS 507: Data Science & Analytics using Python at the University of Michigan.
 
