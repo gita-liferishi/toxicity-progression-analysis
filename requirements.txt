@@ -1,0 +1,24 @@
+# Recommended
+pandas==1.3.5
+torch>=1.11.0
+
+# Data Processing
+pandas
+numpy
+
+# Machine Learning and NLP
+scikit-learn
+torch
+transformers
+
+# Data Visualization
+matplotlib
+seaborn
+wordcloud
+
+# Utility
+tqdm
+json5  # For handling JSON
+
+# External NLP Libraries
+convokit
